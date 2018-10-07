@@ -1,0 +1,44 @@
+.searchdiv{
+    float: right;
+}
+.search{
+    width: 250px;
+    height: 20px;
+}
+.cartimg{
+    width: 100px;
+    height: 100px;
+    float: right;
+    
+}
+.cancel{
+    width: 80px;
+    height: 80px;
+    float: right;
+    border-radius: 80%;
+   
+}
+.logout{
+    height: 60px;
+    width: 80px;
+    position: absolute;
+    left: 81%;
+    padding-bottom: 20px;
+}
+.cartimg:hover{
+    position: relative;
+    top: -3px;
+}
+.basscad{
+    
+    width: 500px;
+    height: 300px;
+  
+}
+.drumcad{
+   
+
+    width: 500px;
+    height: 500px;
+}
+
